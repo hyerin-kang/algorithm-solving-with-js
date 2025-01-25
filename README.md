@@ -8,7 +8,7 @@
 ### :heavy_check_mark: 프로그래머스-자바스크립트-1단계 
 2025/01/23 ~
 
-# :calendar: 알고리즘 문제풀이 진행과정
+# :pencil2: 알고리즘 문제풀이 진행과정
 <table style:width:100%;>
   <thead>
     <tr>
