@@ -21,12 +21,12 @@
     <tr>
       <td>level1</td>
       <td>
-        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a>
-        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a>
+        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a><br/>
+        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a><br/>
       </td>
       <td>
-        <a href="https://github.com/hyerin-kang/algorithm-solving-with-js/blob/main/level_1/%EB%82%B4%EC%A0%81.js">JS</a>
-        <a href="https://github.com/hyerin-kang/algorithm-solving-with-js/blob/main/level_1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.js>JS</a>
+        <a href="level_1/내적.js">JS</a><br/>
+        <a href="./level_1/수박수박수박수박수박수.js">JS</a><br/>
       </td>
     </tr>
   </tbody>
