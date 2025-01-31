@@ -23,10 +23,12 @@
       <td>
         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a><br/>
         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a><br/>
+        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a><br/>
       </td>
       <td>
         <a href="level_1/내적.js">JS</a><br/>
         <a href="./level_1/수박수박수박수박수박수.js">JS</a><br/>
+        <a href="./level_1/문자열내림차순으로배치하기.js">JS</a><br/>
       </td>
     </tr>
   </tbody>
