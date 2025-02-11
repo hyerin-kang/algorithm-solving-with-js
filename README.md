@@ -30,7 +30,6 @@
         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=javascript">부족한 금액 계산하기</a><br/>
       </td>
       <td>
-      <td>
         <a href="level_1/내적.js">JS</a><br/>
         <a href="./level_1/수박수박수박수박수박수.js">JS</a><br/>
         <a href="./level_1/문자열내림차순으로배치하기.js">JS</a><br/>
