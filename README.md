@@ -33,7 +33,6 @@
         <a href="level_1/내적.js">JS</a><br/>
         <a href="./level_1/수박수박수박수박수박수.js">JS</a><br/>
         <a href="./level_1/문자열내림차순으로배치하기.js">JS</a><br/>
-        <a href="./level_1/문자열내림차순으로배치하기.js">JS</a><br/>
         <a href="./level_1/부족한금액계산하기.js">JS</a><br/>
       </td>
     </tr>
