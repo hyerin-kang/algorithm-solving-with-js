@@ -5,10 +5,13 @@
 <br/>
 
 <!-- 기간 -->
-### :heavy_check_mark: 프로그래머스-자바스크립트-1단계 
+
+### :heavy_check_mark: 프로그래머스-자바스크립트-1단계
+
 2025/01/23 ~
 
 # :pencil2: 알고리즘 문제풀이 진행과정
+
 <table style:width:100%;>
   <thead>
     <tr>
@@ -24,11 +27,15 @@
         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70128">내적</a><br/>
         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922">수박수박수박수박수박수?</a><br/>
         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917">문자열 내림차순으로 배치하기</a><br/>
+        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=javascript">부족한 금액 계산하기</a><br/>
       </td>
+      <td>
       <td>
         <a href="level_1/내적.js">JS</a><br/>
         <a href="./level_1/수박수박수박수박수박수.js">JS</a><br/>
         <a href="./level_1/문자열내림차순으로배치하기.js">JS</a><br/>
+        <a href="./level_1/문자열내림차순으로배치하기.js">JS</a><br/>
+        <a href="./level_1/부족한금액계산하기.js">JS</a><br/>
       </td>
     </tr>
   </tbody>
@@ -36,9 +43,6 @@
 
 <br/>
 <br/>
-
-
-
 
 ## :paperclip: Tech Blog Address
 
