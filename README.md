@@ -12,7 +12,7 @@
 
 # :pencil2: 알고리즘 문제풀이 진행과정
 
-<table style:width:100%;>
+<table style="width:100%">
   <thead>
     <tr>
       <th>단계</th>
